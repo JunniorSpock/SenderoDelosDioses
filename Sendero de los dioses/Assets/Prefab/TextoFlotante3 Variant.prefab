@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1043284068742429566
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3384204951452143386, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_Name
+      value: TextoFlotante3 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 298.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 511.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9999383
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.011108587
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -181.273
+      objectReference: {fileID: 0}
+    - target: {fileID: 2490219852986714406, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734185793014533456, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5,
+        type: 3}
+      propertyPath: m_Text
+      value: "Generalmente se le representa con el cuerpo decorado con pinturas negras,\nverdes
+        y amarillas, y decora sus ropajes con plumas de garza y quetzal \nas\xED como
+        numerosos adornos de jade en sus orejas y cuello, \nelemento estrechamente
+        asociado al agua en la cultura azteca."
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c3d9fbbb380b0c4fb1c8bc806ecdef5, type: 3}

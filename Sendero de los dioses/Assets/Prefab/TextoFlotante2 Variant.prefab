@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &752450002869146529
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7723978062128037163, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_Name
+      value: TextoFlotante2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 298.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 511.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9999383
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.011108587
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -181.273
+      objectReference: {fileID: 0}
+    - target: {fileID: 7442480571794029335, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 744750901882290017, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_Text
+      value: "Tl\xE1loc habita en Tlalocan, \nun mundo subacu\xE1tico al que viajan
+        los esp\xEDritus de todos aquellos que fallecen por causas relacionadas con
+        el agua, \nya sea en inundaciones, por enfermedades como la hidropes\xEDa
+        o \nincluso quienes fuesen alcanzados por un rayo durante una tormenta\nRENCOR
+        a Quetzalc\xF3atl, tiene CAUTIVOS\nlos templos de Tlaloc, Xiuhtecuhtli y Quetzalc\xF3atl.\nEste
+        TIRANO se encuentra dentro del laberinto.\nRESCATA LOS TEMPLOS."
+      objectReference: {fileID: 0}
+    - target: {fileID: 744750901882290017, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 744750901882290017, guid: 89b516fe1030c5c428eeed2a758b2834,
+        type: 3}
+      propertyPath: m_RichText
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 89b516fe1030c5c428eeed2a758b2834, type: 3}

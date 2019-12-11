@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class ColisionLibro : MonoBehaviour
 {
    public AudioSource sonido;
+   public AudioSource sonido2;
    public GameObject textoPlanoPrefab;
    public GameObject Puntuacion;
     public int  puntos=0;
@@ -33,14 +34,13 @@ public class ColisionLibro : MonoBehaviour
             if(textoPlanoPrefab){
                 MostrarTexto();
             }
-           
-            
         }
         
     }
 
     public void MostrarTexto(){
         GameObject texto = Instantiate(textoPlanoPrefab);
+        sonido2.Play();
         texto.transform.position = new Vector3(this.gameObject.transform.position.x,
         this.gameObject.transform.position.y+15, 
         this.gameObject.transform.position.z-35);
